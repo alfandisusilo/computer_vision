@@ -1,1 +1,15 @@
+Ibu Pertiwi diperkaya dan dipelihara dengan berbagai tanaman. Tanaman ini berguna dalam banyak hal seperti formulasi obat, produksi produk herbal, dan obat-obatan untuk 
+menyembuhkan banyak penyakit dan penyakit umum. Selama 5000 tahun terakhir, Ayurveda, sistem pengobatan tradisional India diterima secara luas bahkan hingga hari ini. 
+India adalah negara yang kaya karena menjadi habitat berbagai tanaman obat. Banyak bagian tanaman seperti daun, kulit kayu, akar, biji, buah, dan banyak lagi yang digunakan 
+sebagai bahan penting untuk produksi obat-obatan herbal. Obat herbal lebih disukai baik di negara berkembang maupun negara maju sebagai alternatif obat sintetik terutama karena 
+tidak menimbulkan efek samping.
+Pengenalan tanaman ini oleh pandangan manusia akan membosankan, memakan waktu, dan tidak akurat. Aplikasi pengolahan citra dan teknik visi komputer untuk identifikasi tanaman obat 
+sangat penting karena banyak dari mereka berada di bawah kepunahan menurut catatan IUCN. Oleh karena itu, digitalisasi tanaman obat yang bermanfaat sangat penting untuk konservasi 
+keanekaragaman hayati. Studi mengungkapkan bahwa untuk membangun sistem cerdas untuk pengenalan tanaman obat membutuhkan ukuran yang layak dari dataset daun tanaman.
+Dataset terdiri dari 2 spesies tanaman obat sehat seperti Jambu Biji (Psidium guajava), dan Seledri (Apium graveolens). Dataset terdiri dari 100 gambar dari 2 spesies tananaman. 
+Setiap spesies terdiri dari 50 gambar berkualitas tinggi. Folder diberi nama sesuai dengan nama botani/ilmiah spesies.
+Daun yang dipetik berasal dari tanaman yang berbeda dari spesies yang berbeda pula yang tersedia di halaman rumah. Sangat dipastikan untuk tidak memetik banyak daun untuk 
+membangun kumpulan data karena akan sia-sia setelah mengambil gambarnya. Daun yang sehat dan matang dipilih untuk dataset. Instrumen yang digunakan adalah kamera Handphone 
+(Model: OPPO A37). Gambar daun dalam set data sedikit diputar dan dimiringkan untuk memanfaatkan sepenuhnya dalam melatih setiap model pembelajaran mesin dan pembelajaran 
+mendalam.
 
